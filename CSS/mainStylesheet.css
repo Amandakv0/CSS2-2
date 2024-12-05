@@ -1,0 +1,255 @@
+body{
+    width: 1920px;
+    height: 1449px;
+}
+#navBarMainFrame{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    box-sizing: content-box;
+    width: 980px;
+    height: 48px;
+    padding: 12px 80px;
+    margin-left: 390px;
+    margin-right: 390px;
+}
+#navBarFrame{
+    margin-top: 12px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    box-sizing: content-box;
+    width: 980px;
+    height: 48px;
+}
+#logoFrame{
+    box-sizing: content-box;
+    width: 147px;
+    height: 21px;
+    padding: 13.5px;
+    margin-right: 171px;
+}
+#logo{
+    width: 146.683px;
+    height: 21.023px;
+}
+#contactUsMainFrame{
+    display: flex;
+    box-sizing: content-box;
+    width: 349px;
+    height: 22px;
+}
+#about{
+    margin: 0;
+    color: #FF5DA3;
+    display: inline;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    padding-right: 20px;
+}
+#offer{
+    margin: 0;
+    display: inline;
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    padding-right: 20px;
+}
+#contact{
+    display: inline;
+    margin: 0;
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Inter;
+    padding-right: 20px;
+}
+#help{
+    display: inline;
+    margin: 0;
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+#contactUsFrame{
+    box-sizing: content-box;
+    width: 73px;
+    height: 17px;
+    margin-left: 171px;
+    border-radius: 8px;
+    padding: 8px 16px;
+    background-color: #00AC25;
+}
+#contactUs{
+   /* display: inline;*/
+    margin: 0;
+    font-size: 14px;
+    font-weight: 500;
+    color: #FFF;
+    text-align: center;
+}
+#contentMainFrame{
+    box-sizing: content-box;
+    width: 1316px;
+    height: 543px;
+    margin-top: 233px;
+    margin-bottom: 663px;
+    margin-left: 302px;
+    margin-right: 302px;
+}
+#websiteHeader{
+    color: #000;
+    font-family: Inter;
+    text-align: center;
+    font-weight: 700;
+    font-size: 72px;
+    margin: 0;
+}
+#instructor{
+    color: #FF5DA3;
+    font-size: 72px;
+    font-weight: 700;
+    font-family: Inter;
+    padding-bottom: 24px; /*sworia?*/
+}
+#unlockOpportunity{
+    color: #000;
+    text-align: center;
+    font-family: "IBM Plex Sans KR";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    padding: 24px 0px;
+    margin: 0;
+}
+#perks{
+    color: #000;
+    text-align: center;
+    font-family: "Instrument Sans";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 59px;
+    margin: 0;
+}
+#unlock{
+    color: #6941C6;
+    text-align: center;
+    margin: 0;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    padding: 24px 0px;
+}
+#becomeIntructorFrame{
+    display: flex;
+    box-sizing: content-box;
+    width: 185px;
+    height: 22px;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background-color: #00AC25;
+    justify-content: center;
+    align-items: center;
+    margin-left: 541px;/*sxvanairad ar gacentra*/
+}
+#becomeInstructorText{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0;
+    font-family: Inter;
+}
+#footerMainFrame{
+    width: 1920px;
+    height: 32px;
+    padding: 48px 0px;
+    background-color: #53389E;
+}
+#containerFrame{
+    box-sizing: border-box;
+    margin-left: 352px;
+    margin-right: 32px;
+    width: 1216px;
+    height: 32px;
+    padding: 0px 32px;
+}
+#contentFrame{
+    display: flex;
+    width: 1216px;
+    height: 32px;
+    align-items: center;
+}
+#logoWrap{
+    width: 160px;
+    height: 32px;
+}
+#logoSecond{
+    width: 142px;
+    height: 32px;
+}
+#footerLinks{
+    box-sizing: border-box;
+    color: #FFF;
+    box-sizing: content-box;
+    display: flex;
+    margin: 0;
+    width: 512px;
+    height: 24px;
+}
+#overview{
+    align-items: center;
+    text-align: center;
+    display: inline;
+    margin: 0;
+}
+#features{
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    display: inline;
+    margin-left: 32px;
+    margin-right: 32px;
+}
+#pricing{
+    margin-left: 32px;
+    margin-right: 32px;
+    margin: 0;
+    display: inline;
+    align-items: center;
+}
+#careers{
+    display: inline;
+    margin: 0;
+    margin-left: 32px;
+    margin-right: 32px;
+    align-items: center;
+}
+#helpp{
+    display: inline;
+    margin-left: 32px;
+    margin-right: 32px;
+    align-items: center;
+    margin: 0;
+}
+#privacyy{
+    display: inline;
+    align-items: center;
+    margin: 0;
+}
+#copyright{
+    box-sizing: content-box;
+    font-size: 16px;
+    display: inline;
+    margin-left: 32px;
+    margin: 0;
+}
+#copyrightFrame{
+    width: 160px;
+    margin-left: 40px;
+}
